@@ -1,0 +1,10 @@
+D:\WebForm\Study\GitHub\WebServer\WebServer\bin\Debug\app.config
+D:\WebForm\Study\GitHub\WebServer\WebServer\bin\Debug\网站浏览.exe.config
+D:\WebForm\Study\GitHub\WebServer\WebServer\bin\Debug\网站浏览.exe
+D:\WebForm\Study\GitHub\WebServer\WebServer\bin\Debug\网站浏览.pdb
+D:\WebForm\Study\GitHub\WebServer\WebServer\obj\Debug\WebServer.Form1.resources
+D:\WebForm\Study\GitHub\WebServer\WebServer\obj\Debug\WebServer.Properties.Resources.resources
+D:\WebForm\Study\GitHub\WebServer\WebServer\obj\Debug\WebServer.csproj.GenerateResource.Cache
+D:\WebForm\Study\GitHub\WebServer\WebServer\obj\Debug\网站浏览.exe
+D:\WebForm\Study\GitHub\WebServer\WebServer\obj\Debug\网站浏览.pdb
+D:\WebForm\Study\GitHub\WebServer\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
