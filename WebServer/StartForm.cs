@@ -2,17 +2,18 @@
 using System.Diagnostics;
 using System.IO;
 using System.Net;
-using System.Net.Sockets;
-using System.Windows.Forms;
+using System.Net.Sockets;using System.Windows.Forms;
 using System.Configuration;
 
 namespace WebServer
 {
-    public partial class Form1 : Form
+    public partial class StartForm : BaseForm
     {
 
-        public Form1()
+        public StartForm()
         {
+            //应用皮肤
+            ApplySkin("McSkin");
             InitializeComponent();
             //加载默认的路径、端口、浏览器
             TxtUrl.Text = GetAppConfig("url");

@@ -8,3 +8,12 @@ D:\WebForm\Study\GitHub\WebServer\WebServer\obj\Debug\WebServer.csproj.GenerateR
 D:\WebForm\Study\GitHub\WebServer\WebServer\obj\Debug\网站浏览.exe
 D:\WebForm\Study\GitHub\WebServer\WebServer\obj\Debug\网站浏览.pdb
 D:\WebForm\Study\GitHub\WebServer\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
+E:\Napoleon\GitHub\网站浏览\WebServer\WebServer\bin\Debug\app.config
+E:\Napoleon\GitHub\网站浏览\WebServer\WebServer\bin\Debug\网站浏览.exe.config
+E:\Napoleon\GitHub\网站浏览\WebServer\WebServer\bin\Debug\网站浏览.exe
+E:\Napoleon\GitHub\网站浏览\WebServer\WebServer\bin\Debug\网站浏览.pdb
+E:\Napoleon\GitHub\网站浏览\WebServer\WebServer\obj\Debug\WebServer.StartForm.resources
+E:\Napoleon\GitHub\网站浏览\WebServer\WebServer\obj\Debug\WebServer.Properties.Resources.resources
+E:\Napoleon\GitHub\网站浏览\WebServer\WebServer\obj\Debug\WebServer.csproj.GenerateResource.Cache
+E:\Napoleon\GitHub\网站浏览\WebServer\WebServer\obj\Debug\网站浏览.exe
+E:\Napoleon\GitHub\网站浏览\WebServer\WebServer\obj\Debug\网站浏览.pdb
